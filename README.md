@@ -53,7 +53,7 @@ This project investigates the use of machine learning techniques to classify **h
 
 - Articles labeled *satisfactory* were significantly longer and used more uncertainty/modality words (e.g., *might*, *could*).
 - Feature engineering decisions (e.g., keeping uncertainty words) had a noticeable impact on recall for misinformation.
-- SciBERT showed signs of overfitting in training but **generalized well** on the test set.
+- SciBERT showed signs of overfitting in training but **generalised well** on the test set.
 
 ---
 
@@ -69,11 +69,10 @@ This project investigates the use of machine learning techniques to classify **h
 
 ## 🗂️ Project Structure
 
-📦 health-misinformation-detection/
-┣ 📄 dissertation.pdf ← Full academic report with analysis and results
-┣ 📄 README.md ← This file
-┣ 📁 /notebooks/ ← Jupyter notebooks for preprocessing and modeling
-┗ 📁 /models/ ← Model files, evaluation outputs, and plots
+📦 health-misinformation-detection/  
+┣ 📄 dissertation.pdf ← Full academic report with analysis and results  
+┣ 📄 README.md ← This file  
+┗ 📁 /models/ ← Model files, evaluation outputs, and plots  
 
 ---
 
