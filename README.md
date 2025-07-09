@@ -2,7 +2,7 @@
 
 ## 🧠 Project Overview
 
-This project investigates the use of machine learning techniques to classify **health misinformation** in online news articles. The models were trained on real-world annotated news reviews from [HealthNewsReview.org](https://healthnewsreview.org), using both a traditional **Multinomial Naive Bayes (MNB)** classifier and the transformer-based **SciBERT** model. This work was completed as part of my MSc Applied Data Science dissertation and awarded the **Townsend Prize** for achieving the highest mark in the cohort.
+This project investigates the use of machine learning techniques to classify **health misinformation** in online news articles. The models were trained on real-world annotated news reviews from [HealthNewsReview.org]([https://healthnewsreview.org](https://web.archive.org/web/20220803193934/https://www.healthnewsreview.org/)), using both a traditional **Multinomial Naive Bayes (MNB)** classifier and the transformer-based **SciBERT** model. This work was completed as part of my MSc Applied Data Science dissertation and awarded the **Townsend Prize** for achieving the highest mark in the cohort.
 
 ---
 
@@ -72,7 +72,7 @@ This project investigates the use of machine learning techniques to classify **h
 📦 health-misinformation-detection/  
 ┣ 📄 MA981_Dissertation_2322761.pdf ← Full academic report with analysis and results  
 ┣ 📄 README.md ← This file  
-┗ 📁 /models_and EDA/ ← Model files and exploratory data analysis file
+┗ 📁 /models_and_EDA/ ← Model files and exploratory data analysis file
 
 ---
 
