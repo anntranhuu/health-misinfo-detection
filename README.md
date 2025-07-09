@@ -37,11 +37,11 @@ This project investigates the use of machine learning techniques to classify **h
 
 ## 📈 Key Results
 
-| Model                  | Weighted F1 | Unsatisfactory F1 | Satisfactory F1 |
-|-----------------------|-------------|--------------------|------------------|
-| **Random Baseline**   | 0.50        | 0.00               | 0.67             |
-| **Naive Bayes (Final)** | 0.66      | 0.36               | 0.77             |
-| **SciBERT (Final)**     | **0.72**  | **0.49**           | **0.81**         |
+| Model                  | Weighted F1 | 
+|-----------------------|-------------|
+| **Random Baseline**   | 0.50        |
+| **Naive Bayes (Final)** | 0.66      | 
+| **SciBERT (Final)**     | **0.72**  | 
 
 - **SciBERT outperformed** Naive Bayes overall, particularly for identifying misinformation.
 - **Bag-of-Words** outperformed TF-IDF, likely due to the value of common comparison and uncertainty terms.
