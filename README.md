@@ -17,7 +17,7 @@ This project investigates the use of machine learning techniques to classify **h
 
 ## 📂 Dataset
 
-- **Source**: [FakeHealth repository](https://github.com/cuilimeng/FakeHealth)
+- **Source**: [FakeHealth repository](https://github.com/EnyanDai/FakeHealth)
 - **Subset used**: `HealthStory`
 - **Size**: 1,180 reviewed articles from 40+ US media outlets
 - **Labels**: Binary labels — *Satisfactory* vs *Unsatisfactory* based on expert reviews
@@ -70,9 +70,9 @@ This project investigates the use of machine learning techniques to classify **h
 ## 🗂️ Project Structure
 
 📦 health-misinformation-detection/  
-┣ 📄 dissertation.pdf ← Full academic report with analysis and results  
+┣ 📄 MA981_Dissertation_2322761.pdf ← Full academic report with analysis and results  
 ┣ 📄 README.md ← This file  
-┗ 📁 /models/ ← Model files, evaluation outputs, and plots  
+┗ 📁 /models/ ← Model files
 
 ---
 
