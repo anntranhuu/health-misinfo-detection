@@ -72,7 +72,7 @@ This project investigates the use of machine learning techniques to classify **h
 📦 health-misinformation-detection/  
 ┣ 📄 MA981_Dissertation_2322761.pdf ← Full academic report with analysis and results  
 ┣ 📄 README.md ← This file  
-┗ 📁 /models/ ← Model files
+┗ 📁 /models_and EDA/ ← Model files and exploratory data analysis file
 
 ---
 
