@@ -27,7 +27,7 @@ This project investigates the use of machine learning techniques to classify **h
 ## ⚙️ Methods & Technologies
 
 - **Languages**: Python  
-- **Libraries**: `scikit-learn`, `transformers`, `PyTorch`, `NLTK`, `Matplotlib`, `Seaborn`  
+- **Libraries**: `pandas`, numpy`, `scikit-learn`, `transformers`, `PyTorch`, `NLTK`, `Matplotlib`, `Seaborn`  
 - **Models Used**:
   - 🔹 **Multinomial Naive Bayes** with Bag-of-Words & TF-IDF
   - 🔹 **SciBERT** fine-tuned using Hugging Face Transformers  
